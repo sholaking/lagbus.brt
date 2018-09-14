@@ -1,0 +1,228 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 6px;
+	background-color: #D5D5D5;
+	overflow:hidden;
+}
+.navbar {
+	background-color: #23415c;
+	padding: 1% 0;
+	font-size: 1.2em;
+	margin: 6px;
+}
+.navbar-brand{
+	min-height: 55px;
+	padding: 0 15px 5px;
+
+}
+.navbar-default .navbar-nav li a{
+	color: #D5D5D5;
+
+}
+.navbar-default .navbar-nav li a:hover,.navbar-default .navbar-nav li a.active {
+	color: #FFF;
+}
+#home{
+	background:url(../image/brt.png)no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+
+}
+.landing-text {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 50px 0;
+
+}
+
+
+.landing-text h1{
+	font-size: 500%;
+	font-weight: 700%
+	margin-top:50;
+
+}
+.padding{
+	padding: 80px 0;
+	margin-top: 50px 0;
+
+}
+.padding img{
+	width: 100%;
+}
+#fixed{
+	background: url(image/lagbus.jpg)no-repeat center center fixed;
+	display: table;
+	height: 60%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+
+.carousel{
+    background: #2f4357;
+    margin-top: 20px;
+}
+.carousel .item{
+    min-height: 280px; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+}
+.bs-example{
+	margin: 20px;
+}
+
+}
+.h1{
+	color: blue;
+	
+}
+.p{
+	color: red;
+}
+
+#container {
+     position: relative;
+ }
+
+ form {
+     position: absolute;
+     top: 0;
+     left: 0;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+	width: 100%;
+	background-color: blue;
+	padding: 5% 5% 10%;
+	color: #FFF;
+
+
+}
+.fa{
+	padding: 15px;
+	font-size: 25px;
+	color: blue;
+
+}
+.icon{
+	max-width: 200px;
+
+}
+@media (max-width: 768px){
+	landing-text h1{
+		font-size: 300%;
+	}
+	.fa{
+		font-size: 20px;
+		padding: 10px;
+	}
+}
+.icon {
+	padding: top: 5%;
+	max-width: 100px; 
+
+}
+
+@media only screen and (max-width: 768px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
